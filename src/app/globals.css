@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-zinc-50);
+    color: var(--color-zinc-900); /* Light mode: teks gelap */
+  }
+
+  .dark body {
+    background-color: var(--color-zinc-950);
+    color: white !important; /* ⬅ Dark mode: paksa semua teks jadi putih */
+  }
+}
+
+body {
+  font-family: var(--font-sans);
+}
