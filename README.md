@@ -23,16 +23,6 @@ Proyek ini dibuat sebagai bagian dari tugas **UTS Mata Kuliah Pemrograman Berbas
 
 ---
 
-## 📁 Struktur Folder
-```bash
-src/
- ├── app/            # File utama Next.js (routing dan halaman)
- ├── components/     # Komponen UI (Navbar, Footer, About, Projects, Contact)
- ├── styles/         # File CSS dan konfigurasi Tailwind
- └── public/         # Gambar dan aset statis
-
----
-
 ## ✨ Fitur Utama
 
 1. Clone repository ini:
