@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## 🌐 Personal Website – Next.js & Tailwind CSS
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3-blue?logo=tailwind-css&logoColor=white) ![License MIT](https://img.shields.io/badge/License-MIT-green)
 
-First, run the development server:
+Website ini merupakan **Personal Portfolio** yang menampilkan profil, proyek, dan kontak pengembang.  
+Dibangun menggunakan **Next.js (React Framework)** dan **Tailwind CSS** untuk menciptakan tampilan modern, cepat, dan responsif.
+
+---
+
+## ✨ Deskripsi Proyek
+
+Proyek ini dikembangkan sebagai bagian dari tugas **Pemrograman Web Framework (UTS)** di **STITEK Bontang**.  
+Tujuannya adalah membuat website pribadi yang dapat menampilkan identitas, karya, serta portofolio mahasiswa dalam format profesional berbasis framework modern.
+
+---
+
+## ⚙️ Teknologi yang Digunakan
+
+- ⚛️ **Next.js 14 (TypeScript)**  
+- 🎨 **Tailwind CSS**  
+- 💾 **Node.js & npm**  
+- 🔤 **React Components**  
+- 🌙 **Dark & Light Mode**  
+
+---
+
+## 🧠 Fitur Utama
+
+- Menampilkan informasi profil pribadi  
+- Daftar proyek atau karya yang pernah dibuat  
+- Navigasi antar halaman (About, Projects, Contact)  
+- Mode gelap dan terang  
+- Desain responsif (mobile friendly)  
+- Struktur komponen yang reusable  
+
+---
+
+## 📁 Struktur Folder
 
 ```bash
+src/
+ ├── app/            # File utama Next.js
+ ├── components/     # Komponen UI (Navbar, Footer, About, Projects, Contact)
+ ├── styles/         # File CSS dan konfigurasi Tailwind
+ └── public/         # Gambar dan aset
+
+##🚀 Cara Menjalankan Proyek
+
+Clone repository ini:
+
+git clone https://github.com/Wardina2005/Personal-Website.git
+
+
+Masuk ke folder proyek:
+
+cd Personal-Website
+
+
+Install dependencies:
+
+npm install
+
+
+Jalankan server pengembangan:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Buka di browser:
+👉 http://localhost:3000
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+##👩‍💻 Pengembang
 
-## Learn More
+Nama: Wardina
 
-To learn more about Next.js, take a look at the following resources:
+Kampus: STITEK Bontang
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Mata Kuliah: Pemrograman Web Framework
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Dosen Pengampu: (isi sesuai nama dosenmu)
 
-## Deploy on Vercel
+##📜 Lisensi
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Proyek ini dilisensikan di bawah lisensi MIT.
+Silakan gunakan, ubah, dan kembangkan dengan tetap menyertakan kredit kepada pembuat.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+##💬 Catatan
+
+Website ini merupakan hasil pengembangan pribadi untuk keperluan akademik dan portofolio mahasiswa.
+Diharapkan dapat menjadi dasar untuk pengembangan website profesional di masa mendatang.
