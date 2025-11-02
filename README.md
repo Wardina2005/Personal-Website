@@ -44,7 +44,7 @@ src/
  ├── styles/         # File CSS dan konfigurasi Tailwind
  └── public/         # Gambar dan aset
 
-##🚀 Cara Menjalankan Proyek
+🚀 Cara Menjalankan Proyek
 
 Clone repository ini:
 
@@ -69,7 +69,7 @@ npm run dev
 Buka di browser:
 👉 http://localhost:3000
 
-##👩‍💻 Pengembang
+👩‍💻 Pengembang
 
 Nama: Wardina
 
@@ -79,12 +79,12 @@ Mata Kuliah: Pemrograman Web Framework
 
 Dosen Pengampu: (isi sesuai nama dosenmu)
 
-##📜 Lisensi
+📜 Lisensi
 
 Proyek ini dilisensikan di bawah lisensi MIT.
 Silakan gunakan, ubah, dan kembangkan dengan tetap menyertakan kredit kepada pembuat.
 
-##💬 Catatan
+💬 Catatan
 
 Website ini merupakan hasil pengembangan pribadi untuk keperluan akademik dan portofolio mahasiswa.
 Diharapkan dapat menjadi dasar untuk pengembangan website profesional di masa mendatang.
