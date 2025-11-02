@@ -22,6 +22,13 @@ Proyek ini dibuat sebagai bagian dari tugas **UTS Mata Kuliah Pemrograman Berbas
 - 🧩 **Struktur Modular:** Komponen reusable untuk pengembangan berkelanjutan.  
 
 ---
+## 🚀 Cara Menjalankan Proyek
+
+1. Clone repository ini:
+   
+   ```bash
+   git clone https://github.com/Wardina2005/Personal-Website.git
+
 
 ## 🚀 Cara Menjalankan Proyek
 
