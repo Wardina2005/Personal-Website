@@ -23,9 +23,26 @@ Proyek ini dibuat sebagai bagian dari tugas **UTS Mata Kuliah Pemrograman Berbas
 
 ---
 
-## ✨ Fitur Utama
+🚀 Cara Menjalankan Proyek
 
-1. Clone repository ini:
-   
-   ```bash
-   git clone https://github.com/Wardina2005/Personal-Website.git
+Clone repository ini:
+
+git clone https://github.com/Wardina2005/Personal-Website.git
+
+
+Masuk ke folder proyek:
+
+cd Personal-Website
+
+
+Install dependencies:
+
+npm install
+
+
+Jalankan server pengembangan:
+
+npm run dev
+
+
+Buka di browser: http://localhost:3000
