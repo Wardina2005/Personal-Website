@@ -23,7 +23,7 @@ Proyek ini dibuat sebagai bagian dari tugas **UTS Mata Kuliah Pemrograman Berbas
 
 ---
 
-##🚀 Cara Menjalankan Proyek
+## 🚀 Cara Menjalankan Proyek
 
 Clone repository ini:
 
@@ -49,4 +49,4 @@ npm run dev
 
 ---
 
-Buka di browser: http://localhost:3000
+## Buka di browser: http://localhost:3000
