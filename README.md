@@ -33,7 +33,7 @@ src/
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+## ✨ Fitur Utama
 
 1. Clone repository ini:
    
