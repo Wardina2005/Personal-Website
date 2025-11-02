@@ -30,3 +30,12 @@ src/
  ├── components/     # Komponen UI (Navbar, Footer, About, Projects, Contact)
  ├── styles/         # File CSS dan konfigurasi Tailwind
  └── public/         # Gambar dan aset statis
+
+---
+
+## 🚀 Cara Menjalankan Proyek
+
+1. Clone repository ini:
+   
+   ```bash
+   git clone https://github.com/Wardina2005/Personal-Website.git
